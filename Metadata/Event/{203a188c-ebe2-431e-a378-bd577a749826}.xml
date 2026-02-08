@@ -102,9 +102,6 @@
 	<object class="MixerBusFader" id="{d8171920-9075-43f7-8ed2-2508a69ba5b1}" />
 	<object class="MixerBusFader" id="{2c9085ff-dfec-4d9b-a363-aec5f1efed17}" />
 	<object class="SpatialiserEffect" id="{02a0b890-c4f1-410b-a017-e487a1e4881b}">
-		<property name="extentMode">
-			<value>1</value>
-		</property>
 		<property name="soundSize">
 			<value>3.60000014</value>
 		</property>
